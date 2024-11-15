@@ -1,0 +1,14 @@
+C:\Users\Class_Student\source\repos\intervalsformaslov.cs\intervalsformaslov.cs\bin\Debug\net8.0\intervalsformaslov.cs.exe
+C:\Users\Class_Student\source\repos\intervalsformaslov.cs\intervalsformaslov.cs\bin\Debug\net8.0\intervalsformaslov.cs.deps.json
+C:\Users\Class_Student\source\repos\intervalsformaslov.cs\intervalsformaslov.cs\bin\Debug\net8.0\intervalsformaslov.cs.runtimeconfig.json
+C:\Users\Class_Student\source\repos\intervalsformaslov.cs\intervalsformaslov.cs\bin\Debug\net8.0\intervalsformaslov.cs.dll
+C:\Users\Class_Student\source\repos\intervalsformaslov.cs\intervalsformaslov.cs\bin\Debug\net8.0\intervalsformaslov.cs.pdb
+C:\Users\Class_Student\source\repos\intervalsformaslov.cs\intervalsformaslov.cs\obj\Debug\net8.0\intervalsformaslov.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Class_Student\source\repos\intervalsformaslov.cs\intervalsformaslov.cs\obj\Debug\net8.0\intervalsformaslov.cs.AssemblyInfoInputs.cache
+C:\Users\Class_Student\source\repos\intervalsformaslov.cs\intervalsformaslov.cs\obj\Debug\net8.0\intervalsformaslov.cs.AssemblyInfo.cs
+C:\Users\Class_Student\source\repos\intervalsformaslov.cs\intervalsformaslov.cs\obj\Debug\net8.0\intervalsformaslov.cs.csproj.CoreCompileInputs.cache
+C:\Users\Class_Student\source\repos\intervalsformaslov.cs\intervalsformaslov.cs\obj\Debug\net8.0\intervalsformaslov.cs.dll
+C:\Users\Class_Student\source\repos\intervalsformaslov.cs\intervalsformaslov.cs\obj\Debug\net8.0\refint\intervalsformaslov.cs.dll
+C:\Users\Class_Student\source\repos\intervalsformaslov.cs\intervalsformaslov.cs\obj\Debug\net8.0\intervalsformaslov.cs.pdb
+C:\Users\Class_Student\source\repos\intervalsformaslov.cs\intervalsformaslov.cs\obj\Debug\net8.0\intervalsformaslov.cs.genruntimeconfig.cache
+C:\Users\Class_Student\source\repos\intervalsformaslov.cs\intervalsformaslov.cs\obj\Debug\net8.0\ref\intervalsformaslov.cs.dll
